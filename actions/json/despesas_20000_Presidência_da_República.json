@@ -48,5 +48,55 @@
         "empenhado": "13.282.517,72",
         "liquidado": "10.285.451,89",
         "pago": "10.219.945,25"
+    },
+    {
+        "ano": 2024,
+        "orgao": "Presidência da República",
+        "codigoOrgao": "20101",
+        "orgaoSuperior": "Presidência da República",
+        "codigoOrgaoSuperior": "20000",
+        "empenhado": "2.006.488.774,59",
+        "liquidado": "1.562.650.514,47",
+        "pago": "1.464.854.315,51"
+    },
+    {
+        "ano": 2024,
+        "orgao": "Empresa Brasil de Comunicação",
+        "codigoOrgao": "20415",
+        "orgaoSuperior": "Presidência da República",
+        "codigoOrgaoSuperior": "20000",
+        "empenhado": "715.927.850,04",
+        "liquidado": "621.982.815,67",
+        "pago": "635.120.477,37"
+    },
+    {
+        "ano": 2024,
+        "orgao": "Fundo de Imprensa Nacional",
+        "codigoOrgao": "20116",
+        "orgaoSuperior": "Presidência da República",
+        "codigoOrgaoSuperior": "20000",
+        "empenhado": "62.140.209,89",
+        "liquidado": "40.584.726,63",
+        "pago": "40.270.761,72"
+    },
+    {
+        "ano": 2024,
+        "orgao": "Instituto Nacional de Tecnologia da Informação",
+        "codigoOrgao": "24208",
+        "orgaoSuperior": "Presidência da República",
+        "codigoOrgaoSuperior": "20000",
+        "empenhado": "34.558.852,14",
+        "liquidado": "28.848.872,98",
+        "pago": "28.339.958,44"
+    },
+    {
+        "ano": 2024,
+        "orgao": "Gabinete da Vice-Presidência da República",
+        "codigoOrgao": "60000",
+        "orgaoSuperior": "Presidência da República",
+        "codigoOrgaoSuperior": "20000",
+        "empenhado": "12.711.640,25",
+        "liquidado": "10.286.729,89",
+        "pago": "10.286.729,89"
     }
 ]
